@@ -11,4 +11,6 @@ Claude Code にこの output style を設定させると便利だと思います
 
 MITライセンス
 
-概要ブログ：
+概要ブログ：https://zenn.dev/zekeynn/articles/52ea0be9526e34
+
+Output Styleについては公式ドキュメントをご参照ください：https://code.claude.com/docs/ja/output-styles
