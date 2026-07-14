@@ -1,4 +1,7 @@
+## tidy-terminal.md
+
 Claude Code の custom output style です。
+Claude Code にこの output style を設定させると便利だと思います。
 
 主な内容は次の通り
 
