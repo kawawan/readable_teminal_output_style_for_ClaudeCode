@@ -1,4 +1,4 @@
-##tidy-terminal.md
+# tidy-terminal.md
 
 Claude Code の custom output style です。
 ターミナル出力の際、リスト表記の行間隔が狭すぎる問題を解消します。「・」と空行と全角空白で無理やりレイアウトを整えてターミナルに出力するよう指示します。
